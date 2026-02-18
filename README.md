@@ -1,4 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Jelana👋
+
+🎓 I'm a CS Major in Germany at HFT Stuttgart 
+💡 Interested in Software Engineering & Cybersecurity
+🔐 Currently learning: Networking, Databases, IT-Security  
+
+Curious about how things work — from hardware basics to software systems.  
+Always learning, always improving.
+
+---
+
+## 🛠 Tech Stack
+- Java
+- SQL
+- Git
+- HTML, CSS, JavaScript, PHP
+- Linux Command Line (Bash) 
+- Windows / Basic IT Administration
+
+---
+
+## 📌 Current Focus
+- Expanding practical experience through projects
+- Clean Code & Design Patterns
+- Backend Development
+- IT Security fundamentals
+- Operating Systems 
+
+##💻 Current Projekt 
+- PDF Converter
 
 <!--
 **SelfyJelly/SelfyJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
