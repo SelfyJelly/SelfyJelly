@@ -26,7 +26,7 @@ Always learning, always improving.
 - IT Security fundamentals
 - Operating Systems 
 
-##💻 Current Projekt 
+## 💻 Current Projekt 
 - PDF Converter
 
 <!--
