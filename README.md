@@ -11,8 +11,8 @@ Always learning, always improving.
 
 ## 🛠 Tech Stack
 - Java
-- SQL
-- Git
+- SQL/ MySQL
+- Git/Github
 - HTML, CSS, JavaScript, PHP
 - Linux Command Line (Bash) 
 - Windows / Basic IT Administration
@@ -27,7 +27,7 @@ Always learning, always improving.
 - Operating Systems 
 
 ## 💻 Current Projekt 
-- PDF Converter
+- OWASP Juice Shop
 
 <!--
 **SelfyJelly/SelfyJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
