@@ -2,7 +2,7 @@
 
 🎓 I'm a CS Major in Germany at HFT Stuttgart 
 💡 Interested in Software Engineering & Cybersecurity
-🔐 Currently learning: Networking, Databases, IT-Security  
+🔐 Currently learning: Networking, IT-Security, Maschine Lerning
 
 Curious about how things work — from hardware basics to software systems.  
 Always learning, always improving.
@@ -11,11 +11,13 @@ Always learning, always improving.
 
 ## 🛠 Tech Stack
 - Java
+- Python
 - SQL/ MySQL
 - Git/Github
 - HTML, CSS, JavaScript, PHP
 - Linux Command Line (Bash) 
 - Windows / Basic IT Administration
+- JSON, XML
 
 ---
 
