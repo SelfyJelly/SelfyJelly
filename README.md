@@ -30,6 +30,7 @@ Always learning, always improving.
 
 ## 💻 Current Projekt 
 - OWASP Juice Shop
+- AWS Fundamentals 
 
 <!--
 **SelfyJelly/SelfyJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
