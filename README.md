@@ -18,6 +18,7 @@ Always learning, always improving.
 - Linux Command Line (Bash) 
 - Windows / Basic IT Administration
 - JSON, XML
+- AWS
 
 ---
 
